@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Caches
+*.sqlite3
+db.sqlite3
+*.log
+
+# Secret key
+*.secret
+
+# Development
+*.pyc
+*.pyo
+local_settings.py
+
+# Static files
+staticfiles/
+
+# Media
+media/
+
+# Database
+db.sqlite3
+
+# Virtual environment
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
